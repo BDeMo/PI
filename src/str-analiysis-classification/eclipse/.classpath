@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="json-20160810.jar"/>
+	<classpathentry kind="lib" path="nlp_sdk-1.4.0.jar" sourcepath="nlp_sdk-1.4.0.jar"/>
+	<classpathentry kind="lib" path="poi-3.9.jar"/>
+	<classpathentry kind="lib" path="/media/samj/software/ForUbuntu/eclipse/OutLineJars/inSorts.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
